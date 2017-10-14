@@ -1,11 +1,11 @@
-## iSOS
+## iSOS *(aka FlashlightniMariel)*
 
    Arambulo, Regylan<br>
    Del Mundo, Nathaniel Dante<br>
    Ilagan, Ma. Elpedia<br>
    Suarez, Jomariette Kristine<br>
    Visto, Aries<br>
-
+   
 ### To run the App
 *assuming you have successfully installed react-native* <br>
 1. Connect your android device (*USB Debugging enabled*)<br>
@@ -19,3 +19,6 @@
             *--Port: in many cases it is 8081, but you can check it in command window showed in step 2*<br>
             *--Example: 192.168.22.4:8081*<br>
       7. Reload the app. <br>
+      8. If the app only shows white screen or flash and sound does not work, close and open the app again.
+
+*used mp3 files for Sound was located at **android/app/src/main/res/raw/*** <br>
